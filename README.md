@@ -2,7 +2,7 @@
 <div>
   <a href="https://beacons.ai/gabrielneoob">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielneoob&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielneoob&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielneoob&layout=compact&show_icons=true&theme=tokyonight">
 </div>
   
   
