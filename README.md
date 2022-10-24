@@ -3,8 +3,7 @@
 
 <div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielneoob&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/gabrielneoob/github-readme-stats)
-</div>
+  </div>
 <!--
 **gabrielneoob/gabrielneoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
