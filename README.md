@@ -2,9 +2,9 @@
 
 <p>Meu nome é <strong>Gabriel Neoob</strong> e eu sou um desenvolvedor Front-End.</p>
 
-<p>Estou cursando no 3° período na área de Análise e Desenvolvimento de Sistemas</p>
+<p>Estou cursando no 3° período na área de Análise e Desenvolvimento de Sistemas.</p>
 
-<p>Apaixonado por tecnologia e jogos</p>
+<p>Apaixonado por tecnologia e jogos.</p>
 
 ### 📫 Contato
 ##
