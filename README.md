@@ -31,7 +31,7 @@
 </div>
   
   
-  ### Github stats
+  ### 🔥 Github stats
   <div>
    <a href="https://github.com/gabrielneoob">
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielneoob&hide=prs&show_icons=true&theme=transparent"/>
