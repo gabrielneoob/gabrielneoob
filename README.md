@@ -1,6 +1,6 @@
 ## 👋 Hello, world!
 
-<p>Meu nome é <strong>Gabriel Neoob</strong> e eu sou um desenvolvedor Front-End.</p>
+<p>Meu nome é <strong>Gabriel Castro</strong> e eu sou um desenvolvedor Front-End.</p>
 
 <p>Estou cursando no 3° período na área de Análise e Desenvolvimento de Sistemas.</p>
 
