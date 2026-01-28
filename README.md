@@ -1,7 +1,5 @@
 ## 👋 Hello, world!
 
-<p>Meu nome é <strong>Gabriel Castro</strong> e eu sou um desenvolvedor Front-End.</p>
-
 <p>Apaixonado por tecnologia e jogos.</p>
 
 ### 📫 Contato
